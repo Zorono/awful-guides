@@ -1,0 +1,48 @@
+[submodule "SAMP-Query-C#"]
+	path = "SAMP-Query-C#"
+	url = https://github.com/zeelorenc/SA-MP-Server-Query-Class.git
+[submodule "SAMP-GetTickCount"]
+	path = SAMP-GetTickCount
+	url = https://github.com/PatrickGTR/GetTickCount-as-alternative-for-timers.git
+[submodule "htaccess-samples"]
+	path = htaccess-samples
+	url = https://github.com/phanan/htaccess.git
+[submodule "Javascript-EBook"]
+	path = Javascript-EBook
+	url = https://github.com/getify/You-Dont-Know-JS.git
+[submodule "Developer-Notes-Guides"]
+	path = Developer-Notes-Guides
+	url = https://github.com/aaronprograms/dev-notes.git
+[submodule "CSS-SVG-In-ReadMe"]
+	path = CSS-SVG-In-ReadMe
+	url = https://github.com/sindresorhus/css-in-readme-like-wat.git
+[submodule "Securing-Linux-Server"]
+	path = Securing-Linux-Server
+	url = https://github.com/imthenachoman/How-To-Secure-A-Linux-Server.git
+[submodule "AMX-Assembly-Docs"]
+	path = AMX-Assembly-Docs
+	url = https://github.com/YashasSamaga/AMX-Assembly-Docs.git
+[submodule "Pawn-Tutorials-Guides"]
+	path = Pawn-Tutorials-Guides
+	url = https://github.com/Y-Less/pawn-curriculum.git
+[submodule "DiscordJS-BOT-Guide"]
+	path = DiscordJS-BOT-Guide
+	url = https://github.com/AnIdiotsGuide/discordjs-bot-guide.git
+[submodule "SAMP-Packets-RPCs-List"]
+	path = SAMP-Packets-RPCs-List
+	url = https://github.com/BrunoBM16/samp-packet-list.wiki.git
+[submodule "8735255"]
+	path = 8735255
+	url = https://gist.github.com/gitaarik/8735255
+[submodule "778ed99ac8a8dcb93f797a28ba5f8303"]
+	path = 778ed99ac8a8dcb93f797a28ba5f8303
+	url = https://gist.github.com/qaisjp/778ed99ac8a8dcb93f797a28ba5f8303
+[submodule "98c8a4e89ba901265f5536ec4bc2e419"]
+	path = 98c8a4e89ba901265f5536ec4bc2e419
+	url = https://gist.github.com/RalucaNicola/98c8a4e89ba901265f5536ec4bc2e419
+[submodule "5b1761213e33fc5b54ec7f6379034a22"]
+	path = 5b1761213e33fc5b54ec7f6379034a22
+	url = https://gist.github.com/jagrosh/5b1761213e33fc5b54ec7f6379034a22
+[submodule "03fb1cc0ac9f32ef38f4"]
+	path = 03fb1cc0ac9f32ef38f4
+	url = https://gist.github.com/lopspower/03fb1cc0ac9f32ef38f4
