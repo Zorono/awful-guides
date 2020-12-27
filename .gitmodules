@@ -61,3 +61,6 @@
 [submodule "How-To-Secure-A-Linux-Server"]
 	path = How-To-Secure-A-Linux-Server
 	url = https://github.com/imthenachoman/How-To-Secure-A-Linux-Server
+[submodule "professional-programming"]
+	path = professional-programming
+	url = https://github.com/charlax/professional-programming
