@@ -64,3 +64,12 @@
 [submodule "professional-programming"]
 	path = professional-programming
 	url = https://github.com/charlax/professional-programming
+[submodule "Introduction-Programming-Python"]
+	path = Introduction-Programming-Python
+	url = https://github.com/GeekTrainer/Introduction-Programming-Python
+[submodule "100-plus-python-coding-problems-with-solutions"]
+	path = 100-plus-python-coding-problems-with-solutions
+	url = https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions
+[submodule "masteringnode"]
+	path = masteringnode
+	url = https://github.com/visionmedia/masteringnode
