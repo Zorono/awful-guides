@@ -46,3 +46,18 @@
 [submodule "03fb1cc0ac9f32ef38f4"]
 	path = 03fb1cc0ac9f32ef38f4
 	url = https://gist.github.com/lopspower/03fb1cc0ac9f32ef38f4
+[submodule "mostly-adequate-guide"]
+	path = mostly-adequate-guide
+	url = https://github.com/MostlyAdequate/mostly-adequate-guide
+[submodule "Functional-Light-JS"]
+	path = Functional-Light-JS
+	url = https://github.com/getify/Functional-Light-JS
+[submodule "You-Dont-Know-JS"]
+	path = You-Dont-Know-JS
+	url = https://github.com/getify/You-Dont-Know-JS
+[submodule "All-About-Programming"]
+	path = All-About-Programming
+	url = https://github.com/EQuimper/All-About-Programming
+[submodule "How-To-Secure-A-Linux-Server"]
+	path = How-To-Secure-A-Linux-Server
+	url = https://github.com/imthenachoman/How-To-Secure-A-Linux-Server
